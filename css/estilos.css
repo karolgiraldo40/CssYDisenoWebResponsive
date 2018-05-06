@@ -1,0 +1,17 @@
+@font-face{
+    font-family: "DancingScript-Regular";
+    src: url("DancingScript-Regular.ttf");
+}
+body{
+    background: #02010a;
+}
+header{
+    background-color: #5b7989;
+    border-radius: 10px;
+}
+.titulo1{
+    color: white;
+    text-shadow: 2px 2px #02010a;
+    text-align: left;
+    font-family: DancingScript-Regular;
+}
