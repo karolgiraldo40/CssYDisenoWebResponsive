@@ -2,16 +2,52 @@
     font-family: "DancingScript-Regular";
     src: url("DancingScript-Regular.ttf");
 }
-body{
-    background: #02010a;
+#contenido{
+    background-color: #02010a;
+    align-content: center;
 }
 header{
     background-color: #5b7989;
     border-radius: 10px;
+    padding: 20px;
 }
 .titulo1{
     color: white;
     text-shadow: 2px 2px #02010a;
     text-align: left;
     font-family: DancingScript-Regular;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.menu{
+    text-align: right;
+    font-family: DancingScript-Regular;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+#inicio{
+    color: white;
+    text-decoration: none;
+}
+#paisajes{
+    color: white;
+}
+#retratos{
+    color: white;
+}
+img{
+    box-shadow: 2px 2px #02010a;
+}
+.camara{
+    background: #82c3a6;
+    text-align: center;
+    margin-top: -10px;
+    padding: 10px;
+}
+.camara img{
+    width: 80%;
+    margin-top: 10px;
 }
